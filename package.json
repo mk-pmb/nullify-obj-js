@@ -1,0 +1,25 @@
+{ "name": "nullify-obj",
+  "version": "1.0.0",
+  "description": "Flat-copy an object's keys to a new one that has no prototype.",
+  "keywords": [ "object", "null", "copy" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/nullify-obj-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/nullify-obj-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/nullify-obj-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "no.js",
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
